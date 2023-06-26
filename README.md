@@ -17,3 +17,4 @@ Bogotá (bogota.gov.co)**
 localidades medidas en la ciudad de Bogotá Colombia? 
 
 **Link Flourish visualización: https://public.flourish.studio/story/1961543/**
+**Link al video explicativo: https://drive.google.com/file/d/1YkoUPfDhepT92Ix5avgyIh6rwOmhC9Hr/view?usp=sharing**
