@@ -15,3 +15,5 @@ Bogotá (bogota.gov.co)
 
 Pregunta: ¿Existe una relación entre la calidad del aire en los niveles de Material Particulado (en los valores de PM2.5 y PM10) y el comportamiento económico de las
 localidades medidas en la ciudad de Bogotá Colombia? 
+
+Link Flourish visualización: https://public.flourish.studio/story/1961543/
